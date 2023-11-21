@@ -1,0 +1,159 @@
+.navbar{
+    flex-direction: column;
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+.navbar li a{
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 0px 7px;
+    padding-bottom: 5px;
+
+}
+.box img{
+    height: 100px;
+}
+.home{
+    /* height: 255px; */
+    flex-direction: column;
+    padding: 3px 3px;
+    /* overflow: hidden; */
+}
+/* .home::before{
+    height: 450px;
+} */
+.home p{
+    font-size: 1rem;
+    margin: 5px;
+    padding: 3px 5px;
+}
+
+.container{
+    flex-direction: column;
+    /* overflow: hidden; */
+}
+.container p{
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+}
+/* .container img{
+    height: 90px;
+} */
+.client{
+flex-wrap: wrap;
+/* overflow: hidden; */
+}
+
+
+.form-group{
+    width: 150%;
+    padding: 4px 6px;
+    font-size: 1.2rem;
+    
+}
+.contact-box{
+    flex-wrap: wrap;
+
+}
+.contact{
+    padding-top: 14px;
+}
+
+.contact-box input, textarea{
+    padding: 10px 8px;
+    font-size: 650;
+    
+}
+footer{
+    overflow: hidden;
+}
+
+
+.h-primary{ 
+    font-size: 1.7rem;
+    font-weight:700;
+    margin: 3px;
+    /* width: 66px;
+    padding: 56px; */
+} 
+.h-secondary{
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+ .btn{
+    margin-top: 16px;
+} 
+
+
+
+
+
+
+
+
+
+/* navigation
+.navbar{
+    flex-direction: column;
+    overflow: hidden;
+}
+
+sl li a{
+    font-size: 1rem;
+    padding: 0px 5px;
+}
+/* home section   */
+ /* .home{
+    /* height: 370px; */
+    /* width: 50%; */
+    /* flex-direction: column;
+    padding: 3px 48px;
+}  */
+
+/* .home p{
+    font-size: 20px;
+} */
+/* .home::before{
+    
+    flex-direction: column;
+} */
+
+/* services section  */
+/* .services{
+    overflow: hidden;
+    
+} */
+/* .container{
+    flex-direction: column;
+    /* width: 10px; */
+/* }  */
+/* .box{
+    width: 258px;
+} */
+
+/* client services  */
+/* .client{
+    overflow: hidden;
+} */
+/* .client-section{
+    width: 85%;
+} */
+/* .client-item img{
+    width: 100px;
+} */
+/* .contact{
+    width: 85%;
+} */
+
+/* .h-primary{
+    font-size: 25px;
+}
+.h-secondry{
+    font-size: 20px;
+}
+
+.btn{
+    font-size: 20px;
+    padding: 3px 8px ;
+}  */
